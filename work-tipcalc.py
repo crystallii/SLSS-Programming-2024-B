@@ -11,10 +11,10 @@ def main():
     print(f"Leave ${round(tip, 2)}")
 
 
-def dollars_to_float(d):
+def dollars_to_float(d: str):
     # Converts string dollars to a decimal float
     #    Returns the result
-    # TODO
+    return float(d)
 
 
 def percent_to_float(p):
