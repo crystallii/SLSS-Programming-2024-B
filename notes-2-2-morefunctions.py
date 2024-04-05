@@ -38,3 +38,6 @@ print(stars(0))
 print(stars(1))
 print(stars(1000))
 print(stars(-1))
+
+
+def biggest_of_three()
